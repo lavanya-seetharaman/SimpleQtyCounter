@@ -1,5 +1,4 @@
 # SimpleQtyCounter
-# simple-qty-counter
 
 Let's start by looking at a small React counter component. It tracks a number in component state, and increments the number when a button is clicked:
 
